@@ -2,6 +2,7 @@ import React from 'react'
 import CreatorCard from '../CreatorCard'
 import {Link} from 'react-router-dom';
 
+
 const ViewCreators = ({ creators }) => {
     return (
         <div className='flex flex-row'>
