@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/vivianzo/creatorverse/blob/main/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/vivianzo/creatorverse/blob/main/creators.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
